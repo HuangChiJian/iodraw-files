@@ -82,6 +82,9 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-30" value="持续监控,待用电后通过蓝牙触发功率变化识别" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1068" y="2326.5" width="228" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-31" target="UQvoAGepNtpCO3fpLMdd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-31" value="导轨表定期蓝牙抄读未识别用户数据,确保完整性" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1071" y="2514" width="222" height="67" as="geometry" />
         </mxCell>
@@ -353,6 +356,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="2470" as="sourcePoint" />
             <mxPoint x="350" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="3050" as="sourcePoint" />
+            <mxPoint x="350" y="3000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
