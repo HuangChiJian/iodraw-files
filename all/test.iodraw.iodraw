@@ -295,13 +295,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.44;entryY=0.004;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-38" target="UQvoAGepNtpCO3fpLMdd-101">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="799" y="3051" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.54;entryY=0;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-40" target="UQvoAGepNtpCO3fpLMdd-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -364,6 +357,12 @@
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-101" value="确认拓扑关系" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="402.5" y="3090" width="222" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="2760" as="sourcePoint" />
+            <mxPoint x="350" y="2710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
