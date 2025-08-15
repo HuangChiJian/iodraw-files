@@ -356,7 +356,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.994;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-20" target="UQvoAGepNtpCO3fpLMdd-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="2499" />
+              <mxPoint x="415" y="2237" />
+              <mxPoint x="413" y="2237" />
+              <mxPoint x="413" y="1988" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dPQ8tw5cCTYqll6wD5LA-24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dPQ8tw5cCTYqll6wD5LA-23">
+          <mxGeometry x="0.0761" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
