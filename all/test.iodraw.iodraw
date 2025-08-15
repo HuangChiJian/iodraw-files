@@ -217,10 +217,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-65" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-22">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-65" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;entryX=0.557;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-22" target="UQvoAGepNtpCO3fpLMdd-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="1643" />
+              <mxPoint x="930" y="1520" />
             </Array>
             <mxPoint x="925.5" y="1420" as="sourcePoint" />
             <mxPoint x="1020" y="1820" as="targetPoint" />
