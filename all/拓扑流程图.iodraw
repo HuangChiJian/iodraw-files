@@ -58,6 +58,9 @@
             <mxPoint x="150" y="2713" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dPQ8tw5cCTYqll6wD5LA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-20" target="dPQ8tw5cCTYqll6wD5LA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-20" value="评分≥3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="97" y="2447" width="104" height="104" as="geometry" />
         </mxCell>
