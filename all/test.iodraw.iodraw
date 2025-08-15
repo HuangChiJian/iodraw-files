@@ -41,10 +41,10 @@
           <mxGeometry x="17.5" y="2230" width="262.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-18" value="评分+1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="93" y="2410" width="109" height="49" as="geometry" />
+          <mxGeometry x="94.5" y="2410" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-19" value="评分-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2420" width="106" height="49" as="geometry" />
+          <mxGeometry x="261" y="2410" width="106" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-20" value="评分≥3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="93" y="2581" width="104" height="104" as="geometry" />
