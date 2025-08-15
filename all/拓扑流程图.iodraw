@@ -52,7 +52,7 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-19" value="评分-1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="282" y="2364" width="106" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dPQ8tw5cCTYqll6wD5LA-12" edge="1">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dPQ8tw5cCTYqll6wD5LA-12" target="UQvoAGepNtpCO3fpLMdd-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="171" y="2679" as="sourcePoint" />
             <mxPoint x="150" y="2713" as="targetPoint" />
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-21" value="确认拓扑关系" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="57" y="2716" width="228" height="67" as="geometry" />
+          <mxGeometry x="36" y="2716" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-22" value="未用电用户?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="932" y="1350" width="135" height="135" as="geometry" />
