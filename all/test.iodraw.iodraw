@@ -363,13 +363,13 @@
             <mxPoint x="248" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-94" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-94" value="是" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="1520" />
+              <mxPoint x="223" y="1502.5" />
             </Array>
-            <mxPoint x="197" y="1445" as="sourcePoint" />
-            <mxPoint x="160" y="1590" as="targetPoint" />
+            <mxPoint x="360" y="1400" as="sourcePoint" />
+            <mxPoint x="580" y="1572.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
