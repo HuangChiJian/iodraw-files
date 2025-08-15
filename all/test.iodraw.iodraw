@@ -83,25 +83,25 @@
           <mxGeometry x="469" y="4765" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-32" value="功率缓慢变化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="272" y="3450" width="126" height="49" as="geometry" />
+          <mxGeometry x="454" y="1590" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-33" value="组合遍历算法" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="272" y="3575" width="126" height="49" as="geometry" />
+          <mxGeometry x="454" y="1715" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-34" value="确定待识别数量:M≥(15-已识别N)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="221" y="3683" width="228" height="67" as="geometry" />
+          <mxGeometry x="403" y="1823" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-35" value="组合用户表:1-(15-N)个/组" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="228" y="3908" width="215" height="49" as="geometry" />
+          <mxGeometry x="410" y="2048" width="215" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-36" value="蓝牙定时抄读电量(15min/次,共10次),计算组合累计电量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="210" y="4227" width="224" height="84" as="geometry" />
+          <mxGeometry x="392" y="2367" width="224" height="84" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-37" value="计算组合总电量与导轨表分相电量的皮尔逊相关系数" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="211" y="4472" width="222" height="67" as="geometry" />
+          <mxGeometry x="393" y="2612" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-38" value="选取系数最大组合" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="243" y="4616" width="158" height="49" as="geometry" />
+          <mxGeometry x="425" y="2756" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-39" value="K-means聚类电压值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="938.5" y="2871" width="171" height="49" as="geometry" />
@@ -236,7 +236,7 @@
             <mxPoint x="1014.5" y="2055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-69" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="UQvoAGepNtpCO3fpLMdd-27">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-69" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-26" target="UQvoAGepNtpCO3fpLMdd-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1001" y="2358" />
@@ -294,7 +294,7 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-35" target="UQvoAGepNtpCO3fpLMdd-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="322" y="4103" />
+              <mxPoint x="504" y="2243" />
             </Array>
           </mxGeometry>
         </mxCell>
