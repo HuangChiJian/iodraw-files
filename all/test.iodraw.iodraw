@@ -53,7 +53,7 @@
           <mxGeometry x="36" y="3087" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-22" value="未用电用户?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="586" y="1546" width="135" height="135" as="geometry" />
+          <mxGeometry x="604" y="1350" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-23" value="电压聚类识别" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="459" y="1772" width="126" height="49" as="geometry" />
@@ -211,13 +211,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-64" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-11" target="UQvoAGepNtpCO3fpLMdd-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="653" y="1510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-65" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-22" target="UQvoAGepNtpCO3fpLMdd-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -362,6 +355,13 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-88" target="UQvoAGepNtpCO3fpLMdd-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="478" y="1299" as="sourcePoint" />
+            <mxPoint x="248" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
