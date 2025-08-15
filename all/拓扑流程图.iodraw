@@ -46,7 +46,7 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-19" value="评分-1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="296.5" y="2410" width="106" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UQvoAGepNtpCO3fpLMdd-20" target="UQvoAGepNtpCO3fpLMdd-21" edge="1">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dPQ8tw5cCTYqll6wD5LA-3" target="UQvoAGepNtpCO3fpLMdd-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UQvoAGepNtpCO3fpLMdd-20" target="dPQ8tw5cCTYqll6wD5LA-1" edge="1">
@@ -345,8 +345,14 @@
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-2" value="评分+1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="94.5" y="2410" width="109" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="dPQ8tw5cCTYqll6wD5LA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-20" target="dPQ8tw5cCTYqll6wD5LA-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349" y="2624" as="sourcePoint" />
+            <mxPoint x="224" y="2720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-3" value="集合A1/A2/A3的电表是否轮询获取数据完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="293.5" y="2650" width="109" height="49" as="geometry" />
+          <mxGeometry x="291.5" y="2639" width="109" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
