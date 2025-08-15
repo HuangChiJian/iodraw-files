@@ -368,13 +368,13 @@
             <mxPoint x="840" y="3080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-107" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-107" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.462;exitY=0.966;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="3050" as="sourcePoint" />
-            <mxPoint x="350" y="3000" as="targetPoint" />
+            <mxPoint x="600" y="3230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="3050" />
-              <mxPoint x="300" y="3000" />
+              <mxPoint x="1100" y="3210" />
             </Array>
           </mxGeometry>
         </mxCell>
