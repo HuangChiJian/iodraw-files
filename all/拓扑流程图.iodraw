@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-20" value="评分≥3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="119" y="2445" width="104" height="104" as="geometry" />
+          <mxGeometry x="97" y="2447" width="104" height="104" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UQvoAGepNtpCO3fpLMdd-21" target="UQvoAGepNtpCO3fpLMdd-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -336,7 +336,7 @@
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-12" value="集合A1/A2/A3的电表是否轮询获取数据完成" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="119" y="2575" width="104" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="dPQ8tw5cCTYqll6wD5LA-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-19">
+        <mxCell id="dPQ8tw5cCTYqll6wD5LA-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-19" target="UQvoAGepNtpCO3fpLMdd-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="339" y="2455" as="sourcePoint" />
             <mxPoint x="319" y="2490" as="targetPoint" />
