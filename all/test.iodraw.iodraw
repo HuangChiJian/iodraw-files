@@ -7,7 +7,7 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-6" value="形成待分析集合A" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="541.5" y="773" width="152" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-7" value="蓝牙多连接:同时连接集合A中的20个用户表,准备数据抄读" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-7" value="蓝牙多连接:分批同时连接集合A中的20个用户表,准备数据抄读" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="502.5" y="872" width="229" height="84" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-8" value="分相聚类:K-means聚类分相" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -38,7 +38,7 @@
           <mxGeometry x="50.5" y="1850" width="197" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-15" value="计算deltaP/deltaQ(前后2点差分)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="34" y="1960" width="227" height="67" as="geometry" />
+          <mxGeometry x="35.25" y="1960" width="227" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-16" value="继续滑窗筛选" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="86" y="2100" width="126" height="49" as="geometry" />
