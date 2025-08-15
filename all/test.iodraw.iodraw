@@ -267,15 +267,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-74" value="否" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-11" target="UQvoAGepNtpCO3fpLMdd-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="1440" />
-              <mxPoint x="812" y="1718" />
-            </Array>
-            <mxPoint x="310" y="1430" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-32" target="UQvoAGepNtpCO3fpLMdd-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
