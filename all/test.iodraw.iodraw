@@ -92,7 +92,7 @@
           <mxGeometry x="403" y="1823" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-35" value="组合用户表:1-(15-N)个/组" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="410" y="2048" width="215" height="49" as="geometry" />
+          <mxGeometry x="409.5" y="1956" width="215" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-36" value="蓝牙定时抄读电量(15min/次,共10次),计算组合累计电量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="392" y="2367" width="224" height="84" as="geometry" />
@@ -363,7 +363,7 @@
             <mxPoint x="248" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-94" value="是" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-94" value="是" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-11" target="UQvoAGepNtpCO3fpLMdd-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="223" y="1502.5" />
