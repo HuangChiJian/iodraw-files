@@ -56,7 +56,7 @@
           <mxGeometry x="36" y="3087" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-22" value="未用电用户?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="925.5" y="1330" width="135" height="135" as="geometry" />
+          <mxGeometry x="932" y="1350" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-24" value="蓝牙广播监听:接收相邻导轨表的分相U/P/Q数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="879" y="1590" width="228" height="67" as="geometry" />
@@ -147,7 +147,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-10">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-10" target="UQvoAGepNtpCO3fpLMdd-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="387" y="1350" as="targetPoint" />
