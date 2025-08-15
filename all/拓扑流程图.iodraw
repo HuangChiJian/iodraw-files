@@ -324,17 +324,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UQvoAGepNtpCO3fpLMdd-19" target="UQvoAGepNtpCO3fpLMdd-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="2470" as="sourcePoint" />
-            <mxPoint x="350" y="2570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-1" value="选取A1/A2/A3合集中未拓扑识别的&#xa;电表，蓝牙多连接（最多连接20台）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="34" y="1493" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-2" value="评分+1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="94.5" y="2410" width="109" height="49" as="geometry" />
+          <mxGeometry x="93.5" y="2407" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-20" target="dPQ8tw5cCTYqll6wD5LA-3">
           <mxGeometry relative="1" as="geometry">
@@ -344,6 +338,12 @@
         </mxCell>
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-3" value="集合A1/A2/A3的电表是否轮询获取数据完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291.5" y="2639" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dPQ8tw5cCTYqll6wD5LA-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="695" y="2555" as="sourcePoint" />
+            <mxPoint x="745" y="2505" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
