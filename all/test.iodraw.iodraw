@@ -49,7 +49,7 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-20" value="评分≥3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="98" y="2911" width="104" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-21" value="确认拓扑关系(用户表在导轨表后端)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-21" value="确认拓扑关系" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="36" y="3087" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-22" value="未用电用户?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
