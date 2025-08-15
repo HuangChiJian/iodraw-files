@@ -107,7 +107,7 @@
           <mxGeometry x="938.5" y="2871" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-40" value="匹配至电压相近的导轨表分相,确认拓扑" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="926.5" y="3020" width="222" height="67" as="geometry" />
+          <mxGeometry x="406" y="2482" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-41" value="汇总已识别拓扑关系" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="421" y="3204" width="174" height="49" as="geometry" />
