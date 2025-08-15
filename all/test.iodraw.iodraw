@@ -68,7 +68,7 @@
           <mxGeometry x="746.5" y="2420" width="193" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-28" value="蓝牙抄读未识别用户表电压值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="740" y="2557.5" width="222" height="67" as="geometry" />
+          <mxGeometry x="733" y="2550" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-29" value="否(无电压差异)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1120" y="2420" width="168" height="49" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="436" y="2330" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-39" value="K-means聚类电压值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="758.5" y="2791" width="171" height="49" as="geometry" />
+          <mxGeometry x="757.5" y="2680" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-40" value="匹配至电压相近的导轨表分相,确认拓扑" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="392" y="3087" width="222" height="67" as="geometry" />
