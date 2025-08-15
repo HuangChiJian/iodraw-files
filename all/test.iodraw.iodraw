@@ -97,6 +97,9 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-36" value="蓝牙定时抄读电量(15min/次,共10次),计算组合累计电量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="403" y="2030" width="224" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-37" target="UQvoAGepNtpCO3fpLMdd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-37" value="计算组合总电量与导轨表分相电量的皮尔逊相关系数" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="404" y="2170" width="222" height="67" as="geometry" />
         </mxCell>
