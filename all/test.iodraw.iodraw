@@ -86,13 +86,13 @@
           <mxGeometry x="454" y="1590" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-33" value="组合遍历算法" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="454" y="1715" width="126" height="49" as="geometry" />
+          <mxGeometry x="454" y="1690" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-34" value="确定待识别数量:M≥(15-已识别N)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="403" y="1823" width="228" height="67" as="geometry" />
+          <mxGeometry x="403" y="1790" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-35" value="组合用户表:1-(15-N)个/组" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="409.5" y="1956" width="215" height="49" as="geometry" />
+          <mxGeometry x="409.5" y="1930" width="215" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-36" value="蓝牙定时抄读电量(15min/次,共10次),计算组合累计电量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="392" y="2367" width="224" height="84" as="geometry" />
