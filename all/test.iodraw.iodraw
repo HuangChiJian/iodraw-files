@@ -97,9 +97,6 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-36" value="蓝牙定时抄读电量(15min/次,共10次),计算组合累计电量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="403" y="2030" width="224" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-37" target="UQvoAGepNtpCO3fpLMdd-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-37" value="计算组合总电量与导轨表分相电量的皮尔逊相关系数" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="404" y="2170" width="222" height="67" as="geometry" />
         </mxCell>
@@ -366,6 +363,13 @@
             </Array>
             <mxPoint x="360" y="1400" as="sourcePoint" />
             <mxPoint x="580" y="1572.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="516.5" y="1974" as="sourcePoint" />
+            <mxPoint x="516.5" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
