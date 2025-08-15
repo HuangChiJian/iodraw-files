@@ -362,6 +362,9 @@
             <mxPoint x="842.79" y="2547" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-101" value="确认拓扑关系" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="397" y="3080" width="222" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
