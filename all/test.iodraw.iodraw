@@ -101,7 +101,7 @@
           <mxGeometry x="404" y="2170" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-38" value="选取系数最大组合" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="425" y="2756" width="158" height="49" as="geometry" />
+          <mxGeometry x="436" y="2330" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-39" value="K-means聚类电压值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="938.5" y="2871" width="171" height="49" as="geometry" />
