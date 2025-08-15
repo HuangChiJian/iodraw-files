@@ -52,24 +52,6 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dPQ8tw5cCTYqll6wD5LA-3" target="UQvoAGepNtpCO3fpLMdd-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.996;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="332.5" y="2561.01" as="sourcePoint" />
-            <mxPoint x="287.08799999999997" y="1526.001" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="333" y="2552" />
-              <mxPoint x="331" y="2552" />
-              <mxPoint x="331" y="2657" />
-              <mxPoint x="440" y="2657" />
-              <mxPoint x="440" y="1526" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-126" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UQvoAGepNtpCO3fpLMdd-125" vertex="1" connectable="0">
-          <mxGeometry x="0.7274" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-20" value="评分≥3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="202.5" y="2501" width="104" height="104" as="geometry" />
         </mxCell>
