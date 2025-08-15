@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-21" value="确认拓扑关系" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="140.5" y="2720" width="228" height="67" as="geometry" />
+          <mxGeometry x="57" y="2716" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-22" value="未用电用户?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="932" y="1350" width="135" height="135" as="geometry" />
@@ -340,7 +340,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-3" value="集合A1/A2/A3的电表是否轮询获取数据完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="2632" width="109" height="49" as="geometry" />
+          <mxGeometry x="116.5" y="2630" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -359,6 +359,9 @@
             <mxPoint x="695" y="1855" as="sourcePoint" />
             <mxPoint x="745" y="1805" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dPQ8tw5cCTYqll6wD5LA-12" value="评分≥3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="292" y="2559" width="104" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
