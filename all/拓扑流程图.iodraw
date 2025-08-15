@@ -339,16 +339,10 @@
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-12" value="集合A1/A2/A3的电表是否轮询获取数据完成" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="119" y="2575" width="104" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="dPQ8tw5cCTYqll6wD5LA-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339" y="2455" as="sourcePoint" />
-            <mxPoint x="389" y="2405" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dPQ8tw5cCTYqll6wD5LA-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="339" y="2455" as="sourcePoint" />
-            <mxPoint x="389" y="2405" as="targetPoint" />
+            <mxPoint x="170" y="2438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
