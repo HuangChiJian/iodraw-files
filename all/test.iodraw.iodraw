@@ -44,7 +44,7 @@
           <mxGeometry x="94.5" y="2410" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-19" value="评分-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="261" y="2410" width="106" height="49" as="geometry" />
+          <mxGeometry x="296.5" y="2410" width="106" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-20" value="评分≥3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="93" y="2581" width="104" height="104" as="geometry" />
@@ -353,6 +353,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-17" target="UQvoAGepNtpCO3fpLMdd-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="2760" as="sourcePoint" />
+            <mxPoint x="350" y="2710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-115" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="2760" as="sourcePoint" />
             <mxPoint x="350" y="2710" as="targetPoint" />
