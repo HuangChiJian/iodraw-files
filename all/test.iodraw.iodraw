@@ -56,7 +56,7 @@
           <mxGeometry x="36" y="3087" width="228" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-22" value="未用电用户?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1360" width="135" height="135" as="geometry" />
+          <mxGeometry x="906.5" y="1340" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-24" value="蓝牙广播监听:接收相邻导轨表的分相U/P/Q数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="879" y="1590" width="228" height="67" as="geometry" />
