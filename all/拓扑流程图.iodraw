@@ -43,6 +43,9 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-17" value="导轨表与用户表deltaP/Q差值&amp;lt;10%?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="17.5" y="2230" width="262.5" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="dPQ8tw5cCTYqll6wD5LA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-19" target="UQvoAGepNtpCO3fpLMdd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-19" value="评分-1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="296.5" y="2410" width="106" height="49" as="geometry" />
         </mxCell>
@@ -66,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-20" value="评分≥3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="201" y="2483" width="104" height="104" as="geometry" />
+          <mxGeometry x="202.5" y="2501" width="104" height="104" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UQvoAGepNtpCO3fpLMdd-21" target="UQvoAGepNtpCO3fpLMdd-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
