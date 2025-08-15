@@ -20,7 +20,7 @@
           <mxGeometry x="370" y="1222" width="195" height="67" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-11" value="已用电用户?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1338" width="135" height="135" as="geometry" />
+          <mxGeometry x="170" y="1350" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-12" value="功率变化识别(快速变化用户)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="36" y="1580" width="228" height="67" as="geometry" />
