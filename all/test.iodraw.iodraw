@@ -19,6 +19,12 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-10" value="A1(A相)、A2 (B相)、A3 (C相)子集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="519.5" y="1222" width="195" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-11" target="UQvoAGepNtpCO3fpLMdd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-11" target="UQvoAGepNtpCO3fpLMdd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-11" value="已用电用户?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="1350" width="135" height="135" as="geometry" />
         </mxCell>
@@ -163,13 +169,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="387" y="1350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-53" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-11" target="UQvoAGepNtpCO3fpLMdd-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="150" y="1510" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-12" target="UQvoAGepNtpCO3fpLMdd-13">
