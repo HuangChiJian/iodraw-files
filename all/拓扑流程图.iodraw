@@ -342,7 +342,7 @@
             <mxPoint x="350" y="2570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dPQ8tw5cCTYqll6wD5LA-1" value="蓝牙多连接A1/A2/A3合集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="dPQ8tw5cCTYqll6wD5LA-1" value="选取A1/A2/A3合集中未拓扑识别的&#xa;电表，蓝牙多连接（最多连接20台）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="34" y="1493" width="228" height="67" as="geometry" />
         </mxCell>
       </root>
