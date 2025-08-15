@@ -55,9 +55,6 @@
         <mxCell id="UQvoAGepNtpCO3fpLMdd-22" value="未用电用户?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="660" y="1360" width="135" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-23" value="电压聚类识别" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="952" y="1705" width="126" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-24" value="蓝牙广播监听:接收相邻导轨表的分相U/P/Q数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="901" y="1821" width="228" height="67" as="geometry" />
         </mxCell>
@@ -211,18 +208,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-65" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-22" target="UQvoAGepNtpCO3fpLMdd-23">
+        <mxCell id="UQvoAGepNtpCO3fpLMdd-65" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="1643" />
             </Array>
             <mxPoint x="925.5" y="1420" as="sourcePoint" />
-            <mxPoint x="1213" y="1630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UQvoAGepNtpCO3fpLMdd-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-23" target="UQvoAGepNtpCO3fpLMdd-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="1015" y="1705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UQvoAGepNtpCO3fpLMdd-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UQvoAGepNtpCO3fpLMdd-24" target="UQvoAGepNtpCO3fpLMdd-25">
